@@ -112,7 +112,7 @@ impl Shell {
 
 fn main() {
     let mut shell = Shell::new();
-    println!("Welcome to MY Shell!! \nThis is a custom shell implemented in Rust!\nSay hello and wait for magic to happen 😄");
+    println!("Welcome to ⚡Blitz⚡!! \nThis is a custom shell implemented in Rust!\nSay hello and wait for magic to happen 😄");
 
     loop {
         print!("my_shell> ");
